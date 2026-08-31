@@ -19,13 +19,13 @@ An adaptive, multimodal Socratic AI Tutor built with **Bayesian Knowledge Tracin
 ## 🛠️ Setup & Installation
 
 1. **Clone the repository**:
-   `ash
+   "
    git clone https://github.com/aravindp1807/AI-trainee.git
    cd AI-trainee
-   `
+   "
 
 2. **Install Dependencies**:
-   `ash
+   `
    pip install openai huggingface_hub python-dotenv fastapi uvicorn tiktoken
    `
 
@@ -41,18 +41,18 @@ An adaptive, multimodal Socratic AI Tutor built with **Bayesian Knowledge Tracin
 ## 🏃 Running the Application
 
 ### 🌐 Web UI Interface (with Floating Token Monitor)
-`ash
+`
 python code/web_tutor.py
 `
 Open your browser at http://localhost:8000.
 
 ### 🖥️ Interactive CLI Session
-`ash
+`
 python code/ai_tutor.py
 `
 
 ### 🧪 Efficacy Study & Learner Simulation
-`ash
+`
 python code/main.py
 `
 
