@@ -12,8 +12,7 @@ An adaptive, multimodal Socratic AI Tutor built with **Bayesian Knowledge Tracin
 4. **Floating Warning & Token Monitor HUD**:
    - Live floating widget displaying prompt/completion tokens, session totals, active model badge, failover warnings, and BKT progress bar.
 5. **Dual Interface**:
-   - Interactive CLI Terminal Mode (python code/ai_tutor.py).
-   - Web Application & API Server (python code/web_tutor.py on http://localhost:8000).
+   - Interactive CLI Terminal Mode (python code/ai_tutor.py)
 
 ---
 
